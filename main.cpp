@@ -2,6 +2,10 @@
 
 main()
 {
-    pierwszy
-    
+    pierwszyfsdfsdfsdfds 
+
+    {
+        
+    }
+    --
 }
