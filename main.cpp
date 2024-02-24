@@ -1,5 +1,5 @@
 #include <iostream>
-#include "character.h"
+#include "Warrior.h"
 main()
 {
     pierwszyfsdfsdfsdfds 
