@@ -1,0 +1,5 @@
+print("Welcome in banc name generator")
+name = input("What's your name\n")
+print("Hello " + str(name))
+pet_name = input("what's your pet name?\n")
+print("perfect!\n What would you say about:\n" + str(name) + " " + str(pet_name) + " Band" + " ??")
